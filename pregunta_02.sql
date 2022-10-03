@@ -18,4 +18,4 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 -- SELECT COUNT(*) FROM tbl1;
-
+SELECT * FROM tbl1 ORDER BY c14 LIMIT 5;
